@@ -121,5 +121,3 @@ curl -X POST http://localhost:3000/api/search \
 ## 🌐 Deploy
 
 Hospedado na [Vercel](https://vercel.com/): **[xml-reader-pi.vercel.app](https://xml-reader-pi.vercel.app)**
-
----

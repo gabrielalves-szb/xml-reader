@@ -123,9 +123,3 @@ curl -X POST http://localhost:3000/api/search \
 Hospedado na [Vercel](https://vercel.com/): **[xml-reader-pi.vercel.app](https://xml-reader-pi.vercel.app)**
 
 ---
-
-<div align="center">
-
-Feito com ❤️ por [João Luiz Vieira](https://github.com/Jlvieira0909)
-
-</div>
